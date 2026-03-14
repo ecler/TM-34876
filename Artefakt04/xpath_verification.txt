@@ -1,0 +1,4 @@
+PROJEKT SELEKTORA:
+ID: spacer
+TAG: android.widget.Space
+STATUS: ZALICZONE
